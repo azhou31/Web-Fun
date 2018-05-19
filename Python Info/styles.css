@@ -1,0 +1,114 @@
+#wrapper{
+    background:#235174;
+    width: 970px;
+    margin:0px auto;
+}
+h3{
+    color:#E1C155;
+    display:inline;
+}
+#header a{
+    color:#E1C155;
+}
+#logo{
+    display:inline-block;
+    margin-left: 70px;
+    vertical-align: bottom;
+}
+#search{
+    display: inline-block;
+    margin-left: 280px;
+    color: white;
+    font-size: 12px;
+    vertical-align: top;
+}
+#input{
+    background: #444444;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 4px 4px 5px #1F2327;
+    vertical-align: top;
+}
+#searchbar{
+    margin: 15px;
+    width: 148px;
+    margin-left: 27px;
+    margin-top: 16px;
+}
+#button{
+    border: 1px solid white;
+    border-radius: 5px;
+    background: #235174;
+    box-shadow: 4px 4px 5px #1F2327;
+    color: white;
+}
+#menubar{
+    background: #3476A9;
+    display:inline-block;
+    width: 840px;
+    list-style-type: none;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px #1F2327;
+    margin:15px 0px 5px 65px;;
+}
+#menubar > ul > li {
+    display:inline;
+    margin: 25px;
+    color: white;
+    font-size:medium;
+    letter-spacing: 1px;
+}
+#menubody{
+    text-align: center;
+}
+nav{
+    display:inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+nav > ul > li{
+    list-style-type: circle;
+    color:#E1C155;
+    line-height: 25px;
+}
+nav a{
+    color: white;
+}
+article{
+    margin: 10px 10px 0px 20px;
+    overflow:hidden;
+    display:inline-block;
+    width: 500px;
+    color:white;
+    font-size: 12px;
+}
+.info{
+    background: white;
+    width: 370px;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+    text-align: left;
+    margin: 20px ;
+    border-top: 4px solid #3778A9;
+}
+#infobg{
+    background: white;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    background: linear-gradient(#235174, #3C7AA9, #ABD2EC);
+    width: 970px;
+    padding: 5px;
+}
+.FooterNote{
+    display:inline;
+    margin: 20px 20px;
+    color:white;
+    padding: 10px;
+    font-size: 14px;
+}
+span{
+    color:lightblue;
+}
