@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Disappearing Ninja</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                alert("hello");
+                $("img").click(function(){
+                    $(this).css("opacity","0");    
+                })
+                $("#restoreBTN").click(function(){
+                    $("img").css("opacity","1");
+                })
+            });
+        </script>
+        <style>
+            body{
+                width: 900px;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+        <h1>Disappearing Lake</h1>
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        <img src="morainelake.jpg">
+        
+    </br></br>
+        <button id="restoreBTN">Restore</button>
+        </center>
+    </body>
+</html>
