@@ -1,0 +1,142 @@
+.wrapper{
+    align-content: center;
+}
+.header__logo-box{
+    display: inline-block;
+    margin-left: 30px;
+    letter-spacing: 1px;
+    font-style:bold;
+}
+a{
+    color: white;
+    hover: #0E7BBE;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    color: white;
+    font-size:20px;
+    margin: 0px 25px;
+    letter-spacing: 1px;
+    font-style: light;
+    font-family: 'Lato', sans-serif;
+}
+h1,h2{
+    color: white;
+}
+.navyblue{
+    color:#0E7BBE;
+}
+.header__menu{
+    display: inline-block;
+    margin-left: 47px;
+}
+.maincontent{
+    background: white;
+    margin: 10px;
+    padding: 20px 4px 20px 20px;
+    width: 1020px;
+}
+.info{
+    background: #1468A8;
+    width: 294px;
+    display:inline-block;
+    vertical-align: top;
+    padding: 15px;
+    margin-right: 12px;
+    justify-content: center;
+}
+#infobox{
+    width:1020px;
+}
+.info > p{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-style: light;
+    font-size: 14px;
+    position: relative;
+    top: -24px;
+    line-height: 18px;
+    letter-spacing: 0.5px;
+}
+.info > h2{
+    display: inline-block;
+    margin-left: 10px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -10px;
+}
+.BTNs{
+    background: linear-gradient(#4CAFED,#1990DB);
+    border-radius: 5px;
+    width:100px;
+    color:white;
+    text-align: center;
+}
+.BTNs > p{
+    padding: 5px 0px;
+}
+.BottomPage{
+    font-family: 'Open Sans', sans-serif;
+    width: 294px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right:43px;
+    margin-top: 20px;
+    /* overflow: hidden; */
+}
+.BottomPage > p{
+    color:#626D75;
+}
+.bottom{
+    margin-bottom: 20px;
+}
+.quote{
+    width: 300px;
+    background: #DAEDFF;
+    padding: 10px;
+    border-radius: 10px;
+}
+.arrow-down{
+width: 0; 
+height: 0; 
+border-left: 15px solid transparent;
+border-right: 15px solid transparent;
+border-top: 15px solid #DAEDFF;
+position: relative;
+top: -2px;
+right: -172px;
+}
+.goal{
+    position: relative;
+    top: 41px;
+    color: #626D75;
+    font-size: 14px;
+    line-height: 17.5px;
+}
+/* images */
+.wrench{
+    width: 35px;
+    display: inline-block;
+}
+#hero{
+    width:1003px;
+    margin-bottom: 20px;
+}
+#building{
+    width: 324px;
+}
+.footer{
+    display: block;
+    width: 1020px;
+    background: #DAEDFF;
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px 12px;
+}
+.footer > ul > li{
+    color: #759FC0;
+    font-size: 12px;
+}
