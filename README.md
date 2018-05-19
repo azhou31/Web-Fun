@@ -1,3 +1,3 @@
-# jQuery_fun
+# web_fun
 
-simple html & css page that includes the basic jquery functions
+Simple html/css/jquery pages
