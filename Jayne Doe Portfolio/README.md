@@ -1,2 +1,2 @@
 #Jayne Doe Portfolio page  
-Recreated a bare bones html page of Jayne Doe's portfolio page
+Recreated html page from png layout
