@@ -1,0 +1,122 @@
+#body{
+    background: linear-gradient(80deg, #2C1A20, #6F5964, #2C1A20);
+}
+h4, h5{
+    color:white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    display:inline-block;
+    background:#F1F1F1;
+    width: 850px;
+    
+}
+#Jayne{
+    display:inline-block;
+    font-size: 20px;
+    width:480px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding-left:20px;
+}
+#title{
+    display: inline-block;
+    font-size: 14px;
+    width: 325px;
+}
+#portrait{
+    display:inline-block;
+    margin: 20px 10px 10px 20px;
+    border: solid 5px #A5A4AB;
+    vertical-align: top;
+}
+#about{
+    display:inline-block;
+    width:430px;
+    background:#EAE2EA;
+    margin: 20px 20px 10px 5px;
+    font-size:14px;
+}
+.bio{
+    padding:0px 10px;
+    font-size: 14px;
+    letter-spacing: .25px;
+}
+.ProjName{
+    display:inline-block;
+    width: 250px;
+    vertical-align: top;
+    background:#EAE2EA;
+    margin:15px 10px 10px 20px;
+}
+.ProjName2{
+    display:inline-block;
+    width: 250px;
+    vertical-align: top;
+    background:#EAE2EA;
+    margin:15px 10px 10px 10px;
+}
+.ProjName3{
+    display:inline-block;
+    width: 250px;
+    vertical-align: top;
+    background:#EAE2EA;
+    margin:15px 0px 10px 10px;
+}
+.ProjHeader{
+    background: linear-gradient(#A8A7AD, gray, #A8A7AD);
+    display:block;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+.details{
+    padding: 10px;
+    font-size: 12px;
+    height:110px;
+    margin: 0px auto;
+    letter-spacing: 0.25px;
+}
+.TechHeader{
+    color:white;
+    background: linear-gradient(#A8A7AD, grey, #A8A7AD);
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 10px;
+    margin-top:25px;
+}
+.icons{
+    width: 250px;
+    margin: 10px;
+}
+.AppIcon{
+    width:35px;
+    margin: 3px;
+}
+.Buttons{
+    color:white;
+    background:linear-gradient(#8daf7f, #4b874d,#8daf7f);
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 40%;
+    padding: 5px;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 12px;
+    box-shadow: 4px 4px 5px #8C8989;
+    letter-spacing: .5px;
+}
+#footer{
+    margin-top:10px;
+    background: #FFFFFF;
+    font-size: 12px;
+}
+.email{
+    margin: 10px;
+}
+#SocialMedia{
+    display:inline;
+}
+.mediabtns{
+    width: 15px;
+}
