@@ -1,0 +1,39 @@
+#wrapper{
+    margin:0 auto;
+}
+#slideDown > img{
+    display:none;
+}
+#fadeInBox{
+    color:white;
+    background: green;
+    width:200px;
+    height: 100px;
+    display: none;
+    text-align:center;
+    padding: 10px;
+}
+#fadeInBox > span{
+    display:none;
+}
+#fadeOut > span{
+    color:Red;
+    cursor:crosshair;
+}
+#addClass h2{
+    font-size: 20px;
+    color:blue;
+}
+.selected {
+    color:red;
+} 
+#HTMLElement{
+    color:red;
+}
+div{
+    height: 200px;
+    width: 400px;
+}
+span{
+    color:red;
+}
